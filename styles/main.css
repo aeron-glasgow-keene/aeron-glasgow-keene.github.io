@@ -38,3 +38,7 @@ span.emphatic-text {
   height: auto;
   margin: 50px;
 }
+
+.about-me {
+  background-color: rgb(255, 0, 128);
+}
