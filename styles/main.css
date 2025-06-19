@@ -28,8 +28,8 @@ a {
   /* this is how you comment in CSS fam */
 }
 
-.placeholder-class {
-  /* don't know what I'll use these for yet but this is how you create them
-  Maybe to box the paragraphs nicely?
-  */
+.mid-page-image {
+  width: 70vw;
+  height: auto;
+  margin: 50px;
 }
