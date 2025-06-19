@@ -28,8 +28,8 @@ span.emphatic-text {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-#placeholder-id {
-  /* this is how you comment in CSS fam */
+#unique-photo-border {
+  border: 2px solid blueviolet;
 }
 
 .mid-page-image {
