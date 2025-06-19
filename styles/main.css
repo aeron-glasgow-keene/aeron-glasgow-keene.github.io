@@ -30,6 +30,7 @@ a {
 
 .mid-page-image {
   width: 70vw;
+  max-width: 1000px;
   height: auto;
   margin: 50px;
 }
