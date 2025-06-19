@@ -24,6 +24,10 @@ a {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+span.emphatic-text {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 #placeholder-id {
   /* this is how you comment in CSS fam */
 }
