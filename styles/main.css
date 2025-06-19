@@ -52,3 +52,19 @@ td {
   border: 1px solid black;
   border-collapse: collapse;
 }
+
+.RWD {
+  max-width: 2000px;
+  margin: 2em auto;
+}
+
+.RWD-box-1,
+.RWD-box-2 {
+  background-color: rgb(255, 128, 0);
+}
+
+@media (min-width: 700px) {
+  .RWD {
+    display: flex;
+  }
+}
