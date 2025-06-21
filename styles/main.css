@@ -8,6 +8,7 @@ Body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 10px;
   position: sticky;
+  top: 0px;
 }
 
 .nav-content {
