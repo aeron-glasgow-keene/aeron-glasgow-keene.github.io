@@ -11,8 +11,8 @@ Body {
 }
 
 .navbar-list {
-  display: inline-block;
   list-style: none;
+  display: inline-block;
 }
 
 h1 and h2 {
