@@ -60,6 +60,11 @@ a {
   margin: 20px;
 }
 
+.box {
+  max-width: 30vw;
+  max-height: 30vw;
+}
+
 span.emphatic-text {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
