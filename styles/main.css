@@ -55,8 +55,9 @@ a {
   margin: 10px;
 }
 
-.blue-box {
+.margins-box {
   background-color: blue;
+  margin: 20px;
 }
 
 span.emphatic-text {
