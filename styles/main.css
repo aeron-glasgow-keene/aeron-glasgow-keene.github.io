@@ -3,6 +3,18 @@ Body {
   color: antiquewhite;
 }
 
+.nav-class {
+  background-color: cadetblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-list {
+  display: inline-block;
+}
+
 h1 and h2 {
   background-color: rgb(66, 17, 17);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -43,6 +55,7 @@ span.emphatic-text {
   background-color: rgb(255, 0, 128);
   margin: 5px;
   padding: 10px;
+  max-width: 200px;
 }
 
 /*borders for table*/
