@@ -49,6 +49,12 @@ a {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.text-box {
+  width: 70vw;
+  height: auto;
+  margin: 10px;
+}
+
 span.emphatic-text {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
