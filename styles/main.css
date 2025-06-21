@@ -6,6 +6,7 @@ Body {
 .nav-class {
   background-color: rgb(249, 255, 65);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 10px;
 }
 
 .nav-content {
@@ -20,7 +21,8 @@ Body {
 }
 
 .logo {
-  font-size: large;
+  font-size: 20px;
+  color: black;
 }
 
 h1 and h2 {
