@@ -55,6 +55,10 @@ a {
   margin: 10px;
 }
 
+.blue-box {
+  background-color: blue;
+}
+
 span.emphatic-text {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
