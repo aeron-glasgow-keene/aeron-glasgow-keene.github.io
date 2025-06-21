@@ -6,13 +6,21 @@ Body {
 .nav-class {
   background-color: rgb(249, 255, 65);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  display: flex;
-  align-items: center;
 }
 
+.nav-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 .navbar-list {
+  text-decoration: none;
   list-style: none;
   display: inline-block;
+}
+
+.logo {
+  font-size: large;
 }
 
 h1 and h2 {
