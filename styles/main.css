@@ -60,6 +60,16 @@ a {
   margin: 200px;
 }
 
+.borders-box {
+  background-color: blue;
+  border: solid;
+}
+
+.padding-box {
+  background-color: blue;
+  padding: 40px;
+}
+
 .box {
   max-width: 30vw;
   max-height: 30vw;
