@@ -92,6 +92,13 @@ span.emphatic-text {
   margin: 10px;
 }
 
+.code-screenshots {
+  width: 70vw;
+  max-width: 300px;
+  height: auto;
+  margin: 10px;
+}
+
 .about-me {
   background-color: rgb(255, 0, 128);
   margin: 5px;
