@@ -36,12 +36,14 @@ h1 and h2 {
   color: antiquewhite;
   margin: 100px;
   padding: 10px;
+  text-align: center;
 }
 
 p {
   /* background-color: rgb(62, 28, 95); */
   font-family: Helvetica, sans-serif;
   color: antiquewhite;
+  text-align: center;
   /* margin: 5px; */
   /* padding: 10px; */
 }
