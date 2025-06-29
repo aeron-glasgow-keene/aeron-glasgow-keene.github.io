@@ -54,6 +54,7 @@ p {
   min-width: 200px;
   max-width: 900px;
   background-color: blueviolet;
+  padding: 10px;
 }
 
 a {
