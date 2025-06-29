@@ -103,6 +103,7 @@ span.emphatic-text {
 }
 
 .code-screenshots {
+  display: block;
   width: 70vw;
   max-width: 600px;
   max-width: 80%;
