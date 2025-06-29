@@ -105,6 +105,7 @@ span.emphatic-text {
 .code-screenshots {
   width: 70vw;
   max-width: 600px;
+  max-width: 100%;
   height: auto;
   margin: 10px;
 }
