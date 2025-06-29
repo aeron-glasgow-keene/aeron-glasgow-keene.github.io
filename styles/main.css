@@ -31,10 +31,9 @@ Body {
 }
 
 h2 {
-  background-color: rgb(66, 17, 17);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: antiquewhite;
-  margin: 100px;
+  margin: 10px;
   padding: 10px;
   text-align: center;
 }
