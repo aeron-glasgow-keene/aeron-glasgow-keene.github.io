@@ -47,9 +47,11 @@ p {
 }
 
 .paragraph-box {
+  position: relative;
   margin: 70px;
   min-width: 200px;
   max-width: 900px;
+  background-color: blueviolet;
 }
 
 a {
