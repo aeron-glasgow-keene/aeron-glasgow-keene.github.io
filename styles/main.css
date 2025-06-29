@@ -39,11 +39,17 @@ h1 and h2 {
 }
 
 p {
-  background-color: rgb(62, 28, 95);
+  /* background-color: rgb(62, 28, 95); */
   font-family: Helvetica, sans-serif;
   color: antiquewhite;
-  margin: 5px;
-  padding: 10px;
+  /* margin: 5px; */
+  /* padding: 10px; */
+}
+
+.paragraph-box {
+  margin: 70px;
+  min-width: 200px;
+  max-width: 900px;
 }
 
 a {
