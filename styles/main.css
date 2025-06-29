@@ -50,7 +50,9 @@ p {
 .paragraph-box {
   position: relative;
   display: block;
-  margin: 15px, auto, 10px, auto;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
   min-width: 200px;
   max-width: 900px;
   background-color: blueviolet;
@@ -109,7 +111,9 @@ span.emphatic-text {
   max-width: 600px;
   max-width: 80%;
   height: auto;
-  margin: 10px, auto, 10px, auto;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .about-me {
